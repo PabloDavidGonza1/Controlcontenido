@@ -10,5 +10,3 @@ package Encapsulacion;
 	        System.out.println("Saldo: " + c.getSaldo());
 	    }
 	}
-
-	
